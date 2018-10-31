@@ -364,3 +364,6 @@ D:\PROJECT\PrinterControll\New line T2\TPA_PrinterControll\TPA_PrinterControll\b
 D:\PROJECT\PrinterControll\New line T2\TPA_PrinterControll\TPA_PrinterControll\bin\Debug\es\DevExpress.XtraReports.v13.2.Extensions.resources.dll
 D:\PROJECT\PrinterControll\New line T2\TPA_PrinterControll\TPA_PrinterControll\bin\Debug\ja\DevExpress.XtraReports.v13.2.Extensions.resources.dll
 D:\PROJECT\PrinterControll\New line T2\TPA_PrinterControll\TPA_PrinterControll\bin\Debug\ru\DevExpress.XtraReports.v13.2.Extensions.resources.dll
+D:\GIT\PrintControl_2_Floor\TPA_PrinterControll\TPA_PrinterControll\bin\Debug\TPA_PrinterControll.exe.config
+D:\GIT\PrintControl_2_Floor\TPA_PrinterControll\TPA_PrinterControll\obj\Debug\TPA_PrinterControll.exe
+D:\GIT\PrintControl_2_Floor\TPA_PrinterControll\TPA_PrinterControll\obj\Debug\TPA_PrinterControll.pdb
