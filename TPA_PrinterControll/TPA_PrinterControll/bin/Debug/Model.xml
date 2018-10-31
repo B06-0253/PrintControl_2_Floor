@@ -1,0 +1,23 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Items> 
+  <Item>
+    <Model>610823</Model>
+	<SupplierCode>105975</SupplierCode>
+	<CustomerPartNo>6513 2622802</CustomerPartNo>
+	<CountryOfProduction>VIETNAM</CountryOfProduction>
+    <FosterPartNo>610823</FosterPartNo>    
+    <PlantCode>10</PlantCode>    
+    <ChangeIndexNo>01</ChangeIndexNo>
+	<MatrixCode>C5262280201</MatrixCode>
+  </Item>
+  <Item>
+    <Model>610824</Model>
+	<SupplierCode>105975</SupplierCode>
+	<CustomerPartNo>6513 2622800</CustomerPartNo>
+	<CountryOfProduction>VIETNAM</CountryOfProduction>
+    <FosterPartNo>610824</FosterPartNo>    
+    <PlantCode>10</PlantCode>    
+    <ChangeIndexNo>01</ChangeIndexNo>
+	<MatrixCode>C5262280001</MatrixCode>
+  </Item> 
+</Items>

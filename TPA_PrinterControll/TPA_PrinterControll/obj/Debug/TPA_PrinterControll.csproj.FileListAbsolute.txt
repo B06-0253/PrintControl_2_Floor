@@ -1,0 +1,366 @@
+E:\1.2.Giải pháp\TPA_KD3_FPS\TPA_PrinterControll\TPA_PrinterControll\bin\Debug\TPA_PrinterControll.exe
+E:\1.2.Giải pháp\TPA_KD3_FPS\TPA_PrinterControll\TPA_PrinterControll\bin\Debug\TPA_PrinterControll.exe.config
+E:\1.2.Giải pháp\TPA_KD3_FPS\TPA_PrinterControll\TPA_PrinterControll\bin\Debug\Vila.Core.dll
+E:\1.2.Giải pháp\TPA_KD3_FPS\TPA_PrinterControll\TPA_PrinterControll\obj\Debug\TPA_PrinterControll.Properties.Resources.resources
+E:\1.2.Giải pháp\TPA_KD3_FPS\TPA_PrinterControll\TPA_PrinterControll\obj\Debug\TPA_PrinterControll.XtraReport1.resources
+E:\1.2.Giải pháp\TPA_KD3_FPS\TPA_PrinterControll\TPA_PrinterControll\obj\Debug\TPA_PrinterControll.csproj.GenerateResource.Cache
+E:\1.2.Giải pháp\TPA_KD3_FPS\TPA_PrinterControll\TPA_PrinterControll\obj\Debug\TPA_PrinterControll.exe.licenses
+E:\1.2.Giải pháp\TPA_KD3_FPS\TPA_PrinterControll\TPA_PrinterControll\obj\Debug\TPA_PrinterControll.exe
+E:\1.2.Giải pháp\TPA_KD3_FPS\TPA_PrinterControll\TPA_PrinterControll\obj\Debug\TPA_PrinterControll.pdb
+E:\1.2.Giải pháp\TPA_KD3_FPS\TPA_PrinterControll\TPA_PrinterControll\bin\Debug\TPA_PrinterControll.pdb
+E:\1.2.Giải pháp\TPA_KD3_FPS\TPA_PrinterControll\TPA_PrinterControll\obj\Debug\TPA_PrinterControll.csprojResolveAssemblyReference.cache
+E:\Foster_Printer\2.TPA_PrinterControll\TPA_PrinterControll\bin\Debug\TPA_PrinterControll.exe.config
+E:\Foster_Printer\2.TPA_PrinterControll\TPA_PrinterControll\obj\Debug\TPA_PrinterControll.exe
+E:\Foster_Printer\2.TPA_PrinterControll\TPA_PrinterControll\obj\Debug\TPA_PrinterControll.pdb
+E:\Foster_Printer\TPA_PrinterControll\TPA_PrinterControll\obj\Debug\TPA_PrinterControll.Form2.resources
+E:\Foster_Printer\TPA_PrinterControll\TPA_PrinterControll\obj\Debug\TPA_PrinterControll.Properties.Resources.resources
+E:\Foster_Printer\TPA_PrinterControll\TPA_PrinterControll\obj\Debug\TPA_PrinterControll.csproj.GenerateResource.Cache
+E:\Foster_Printer\TPA_PrinterControll\TPA_PrinterControll\obj\Debug\TPA_PrinterControll.exe.licenses
+E:\Foster_Printer\TPA_PrinterControll\TPA_PrinterControll\bin\Debug\TPA_PrinterControll.exe.config
+E:\Foster_Printer\TPA_PrinterControll\TPA_PrinterControll\bin\Debug\TPA_PrinterControll.exe
+E:\Foster_Printer\TPA_PrinterControll\TPA_PrinterControll\bin\Debug\TPA_PrinterControll.pdb
+E:\Foster_Printer\TPA_PrinterControll\TPA_PrinterControll\bin\Debug\Vila.Core.dll
+E:\Foster_Printer\TPA_PrinterControll\TPA_PrinterControll\obj\Debug\TPA_PrinterControll.exe
+E:\Foster_Printer\TPA_PrinterControll\TPA_PrinterControll\obj\Debug\TPA_PrinterControll.pdb
+E:\Foster_Printer\TPA_PrinterControll\TPA_PrinterControll\obj\Debug\TPA_PrinterControll.csprojResolveAssemblyReference.cache
+E:\Foster_Printer\TPA_PrinterControll\TPA_PrinterControll\obj\Debug\TPA_PrinterControll.XtraReport1.resources
+E:\Foster_Printer\TPA_PrinterControll\TPA_PrinterControll\obj\Debug\TPA_PrinterControll.frmSetting.resources
+E:\Foster_Printer\TPA_PrinterControll\TPA_PrinterControll\bin\Debug\TPA_PrinterControll.exe.manifest
+E:\Foster_Printer\TPA_PrinterControll\TPA_PrinterControll\bin\Debug\TPA_PrinterControll.application
+E:\Foster_Printer\TPA_PrinterControll\TPA_PrinterControll\obj\Debug\TPA_PrinterControll.TrustInfo.xml
+E:\Foster_Printer\TPA_PrinterControll\TPA_PrinterControll\obj\Debug\TPA_PrinterControll.exe.manifest
+E:\Foster_Printer\TPA_PrinterControll\TPA_PrinterControll\obj\Debug\TPA_PrinterControll.application
+C:\Users\Anhmd\Desktop\TPA_PrinterControll\TPA_PrinterControll\bin\Debug\TPA_PrinterControll.exe.config
+C:\Users\Anhmd\Desktop\TPA_PrinterControll\TPA_PrinterControll\obj\Debug\TPA_PrinterControll.exe
+C:\Users\Anhmd\Desktop\TPA_PrinterControll\TPA_PrinterControll\obj\Debug\TPA_PrinterControll.pdb
+C:\Users\Anhmd\Desktop\TPA_PrinterControll\TPA_PrinterControll\bin\Debug\TPA_PrinterControll.exe.manifest
+C:\Users\Anhmd\Desktop\TPA_PrinterControll\TPA_PrinterControll\bin\Debug\TPA_PrinterControll.application
+C:\Users\Anhmd\Desktop\TPA_PrinterControll\TPA_PrinterControll\bin\Debug\TPA_PrinterControll.exe
+C:\Users\Anhmd\Desktop\TPA_PrinterControll\TPA_PrinterControll\bin\Debug\TPA_PrinterControll.pdb
+C:\Users\Anhmd\Desktop\TPA_PrinterControll\TPA_PrinterControll\bin\Debug\Vila.Core.dll
+C:\Users\Anhmd\Desktop\TPA_PrinterControll\TPA_PrinterControll\obj\Debug\TPA_PrinterControll.csprojResolveAssemblyReference.cache
+C:\Users\Anhmd\Desktop\TPA_PrinterControll\TPA_PrinterControll\obj\Debug\TPA_PrinterControll.Form2.resources
+C:\Users\Anhmd\Desktop\TPA_PrinterControll\TPA_PrinterControll\obj\Debug\TPA_PrinterControll.frmSetting.resources
+C:\Users\Anhmd\Desktop\TPA_PrinterControll\TPA_PrinterControll\obj\Debug\TPA_PrinterControll.Properties.Resources.resources
+C:\Users\Anhmd\Desktop\TPA_PrinterControll\TPA_PrinterControll\obj\Debug\TPA_PrinterControll.XtraReport1.resources
+C:\Users\Anhmd\Desktop\TPA_PrinterControll\TPA_PrinterControll\obj\Debug\TPA_PrinterControll.csproj.GenerateResource.Cache
+C:\Users\Anhmd\Desktop\TPA_PrinterControll\TPA_PrinterControll\obj\Debug\TPA_PrinterControll.exe.licenses
+C:\Users\Anhmd\Desktop\TPA_PrinterControll\TPA_PrinterControll\obj\Debug\TPA_PrinterControll.TrustInfo.xml
+C:\Users\Anhmd\Desktop\TPA_PrinterControll\TPA_PrinterControll\obj\Debug\TPA_PrinterControll.exe.manifest
+C:\Users\Anhmd\Desktop\TPA_PrinterControll\TPA_PrinterControll\obj\Debug\TPA_PrinterControll.application
+E:\1.2.Giải pháp\TPA_KD3_FPS\TPA_PrinterControll\TPA_PrinterControll\bin\Debug\TPA_PrinterControll.exe.manifest
+E:\1.2.Giải pháp\TPA_KD3_FPS\TPA_PrinterControll\TPA_PrinterControll\bin\Debug\TPA_PrinterControll.application
+E:\1.2.Giải pháp\TPA_KD3_FPS\TPA_PrinterControll\TPA_PrinterControll\obj\Debug\TPA_PrinterControll.Form2.resources
+E:\1.2.Giải pháp\TPA_KD3_FPS\TPA_PrinterControll\TPA_PrinterControll\obj\Debug\TPA_PrinterControll.frmSetting.resources
+E:\1.2.Giải pháp\TPA_KD3_FPS\TPA_PrinterControll\TPA_PrinterControll\obj\Debug\TPA_PrinterControll.TrustInfo.xml
+E:\1.2.Giải pháp\TPA_KD3_FPS\TPA_PrinterControll\TPA_PrinterControll\obj\Debug\TPA_PrinterControll.exe.manifest
+E:\1.2.Giải pháp\TPA_KD3_FPS\TPA_PrinterControll\TPA_PrinterControll\obj\Debug\TPA_PrinterControll.application
+E:\9.Bảo trì\TPA_KD3_FPS\TPA_PrinterControll\TPA_PrinterControll\bin\Debug\TPA_PrinterControll.exe.config
+E:\9.Bảo trì\TPA_KD3_FPS\TPA_PrinterControll\TPA_PrinterControll\obj\Debug\TPA_PrinterControll.exe
+E:\9.Bảo trì\TPA_KD3_FPS\TPA_PrinterControll\TPA_PrinterControll\obj\Debug\TPA_PrinterControll.pdb
+E:\9.Bảo trì\TPA_KD3_FPS\TPA_PrinterControll\TPA_PrinterControll\bin\Debug\TPA_PrinterControll.exe.manifest
+E:\9.Bảo trì\TPA_KD3_FPS\TPA_PrinterControll\TPA_PrinterControll\bin\Debug\TPA_PrinterControll.application
+E:\9.Bảo trì\TPA_KD3_FPS\TPA_PrinterControll\TPA_PrinterControll\bin\Debug\TPA_PrinterControll.exe
+E:\9.Bảo trì\TPA_KD3_FPS\TPA_PrinterControll\TPA_PrinterControll\bin\Debug\TPA_PrinterControll.pdb
+E:\9.Bảo trì\TPA_KD3_FPS\TPA_PrinterControll\TPA_PrinterControll\bin\Debug\Vila.Core.dll
+E:\9.Bảo trì\TPA_KD3_FPS\TPA_PrinterControll\TPA_PrinterControll\obj\Debug\TPA_PrinterControll.csprojResolveAssemblyReference.cache
+E:\9.Bảo trì\TPA_KD3_FPS\TPA_PrinterControll\TPA_PrinterControll\obj\Debug\TPA_PrinterControll.Form2.resources
+E:\9.Bảo trì\TPA_KD3_FPS\TPA_PrinterControll\TPA_PrinterControll\obj\Debug\TPA_PrinterControll.frmSetting.resources
+E:\9.Bảo trì\TPA_KD3_FPS\TPA_PrinterControll\TPA_PrinterControll\obj\Debug\TPA_PrinterControll.Properties.Resources.resources
+E:\9.Bảo trì\TPA_KD3_FPS\TPA_PrinterControll\TPA_PrinterControll\obj\Debug\TPA_PrinterControll.XtraReport1.resources
+E:\9.Bảo trì\TPA_KD3_FPS\TPA_PrinterControll\TPA_PrinterControll\obj\Debug\TPA_PrinterControll.csproj.GenerateResource.Cache
+E:\9.Bảo trì\TPA_KD3_FPS\TPA_PrinterControll\TPA_PrinterControll\obj\Debug\TPA_PrinterControll.exe.licenses
+E:\9.Bảo trì\TPA_KD3_FPS\TPA_PrinterControll\TPA_PrinterControll\obj\Debug\TPA_PrinterControll.TrustInfo.xml
+E:\9.Bảo trì\TPA_KD3_FPS\TPA_PrinterControll\TPA_PrinterControll\obj\Debug\TPA_PrinterControll.exe.manifest
+E:\9.Bảo trì\TPA_KD3_FPS\TPA_PrinterControll\TPA_PrinterControll\obj\Debug\TPA_PrinterControll.application
+D:\9.Bảo trì\TPA_KD3_FPS\TPA_PrinterControll\TPA_PrinterControll\bin\Debug\TPA_PrinterControll.exe.config
+D:\9.Bảo trì\TPA_KD3_FPS\TPA_PrinterControll\TPA_PrinterControll\obj\Debug\TPA_PrinterControll.exe
+D:\9.Bảo trì\TPA_KD3_FPS\TPA_PrinterControll\TPA_PrinterControll\obj\Debug\TPA_PrinterControll.pdb
+D:\9.Bảo trì\TPA_KD3_FPS\TPA_PrinterControll\TPA_PrinterControll\bin\Debug\TPA_PrinterControll.exe.manifest
+D:\9.Bảo trì\TPA_KD3_FPS\TPA_PrinterControll\TPA_PrinterControll\bin\Debug\TPA_PrinterControll.application
+D:\9.Bảo trì\TPA_KD3_FPS\TPA_PrinterControll\TPA_PrinterControll\bin\Debug\TPA_PrinterControll.exe
+D:\9.Bảo trì\TPA_KD3_FPS\TPA_PrinterControll\TPA_PrinterControll\bin\Debug\TPA_PrinterControll.pdb
+D:\9.Bảo trì\TPA_KD3_FPS\TPA_PrinterControll\TPA_PrinterControll\bin\Debug\Vila.Core.dll
+D:\9.Bảo trì\TPA_KD3_FPS\TPA_PrinterControll\TPA_PrinterControll\obj\Debug\TPA_PrinterControll.csprojResolveAssemblyReference.cache
+D:\9.Bảo trì\TPA_KD3_FPS\TPA_PrinterControll\TPA_PrinterControll\obj\Debug\TPA_PrinterControll.Form2.resources
+D:\9.Bảo trì\TPA_KD3_FPS\TPA_PrinterControll\TPA_PrinterControll\obj\Debug\TPA_PrinterControll.frmSetting.resources
+D:\9.Bảo trì\TPA_KD3_FPS\TPA_PrinterControll\TPA_PrinterControll\obj\Debug\TPA_PrinterControll.Properties.Resources.resources
+D:\9.Bảo trì\TPA_KD3_FPS\TPA_PrinterControll\TPA_PrinterControll\obj\Debug\TPA_PrinterControll.XtraReport1.resources
+D:\9.Bảo trì\TPA_KD3_FPS\TPA_PrinterControll\TPA_PrinterControll\obj\Debug\TPA_PrinterControll.csproj.GenerateResource.Cache
+D:\9.Bảo trì\TPA_KD3_FPS\TPA_PrinterControll\TPA_PrinterControll\obj\Debug\TPA_PrinterControll.exe.licenses
+D:\9.Bảo trì\TPA_KD3_FPS\TPA_PrinterControll\TPA_PrinterControll\obj\Debug\TPA_PrinterControll.TrustInfo.xml
+D:\9.Bảo trì\TPA_KD3_FPS\TPA_PrinterControll\TPA_PrinterControll\obj\Debug\TPA_PrinterControll.exe.manifest
+D:\9.Bảo trì\TPA_KD3_FPS\TPA_PrinterControll\TPA_PrinterControll\obj\Debug\TPA_PrinterControll.application
+E:\Phần mềm in - Foster\TPA_PrinterControll\TPA_PrinterControll\bin\Debug\TPA_PrinterControll.exe.config
+E:\Phần mềm in - Foster\TPA_PrinterControll\TPA_PrinterControll\obj\Debug\TPA_PrinterControll.exe
+E:\Phần mềm in - Foster\TPA_PrinterControll\TPA_PrinterControll\obj\Debug\TPA_PrinterControll.pdb
+E:\Phần mềm in - Foster\TPA_PrinterControll\TPA_PrinterControll\bin\Debug\TPA_PrinterControll.exe.manifest
+E:\Phần mềm in - Foster\TPA_PrinterControll\TPA_PrinterControll\bin\Debug\TPA_PrinterControll.application
+E:\Phần mềm in - Foster\TPA_PrinterControll\TPA_PrinterControll\bin\Debug\TPA_PrinterControll.exe
+E:\Phần mềm in - Foster\TPA_PrinterControll\TPA_PrinterControll\bin\Debug\TPA_PrinterControll.pdb
+E:\Phần mềm in - Foster\TPA_PrinterControll\TPA_PrinterControll\bin\Debug\Vila.Core.dll
+E:\Phần mềm in - Foster\TPA_PrinterControll\TPA_PrinterControll\obj\Debug\TPA_PrinterControll.csprojResolveAssemblyReference.cache
+E:\Phần mềm in - Foster\TPA_PrinterControll\TPA_PrinterControll\obj\Debug\TPA_PrinterControll.Form2.resources
+E:\Phần mềm in - Foster\TPA_PrinterControll\TPA_PrinterControll\obj\Debug\TPA_PrinterControll.frmSetting.resources
+E:\Phần mềm in - Foster\TPA_PrinterControll\TPA_PrinterControll\obj\Debug\TPA_PrinterControll.Properties.Resources.resources
+E:\Phần mềm in - Foster\TPA_PrinterControll\TPA_PrinterControll\obj\Debug\TPA_PrinterControll.XtraReport1.resources
+E:\Phần mềm in - Foster\TPA_PrinterControll\TPA_PrinterControll\obj\Debug\TPA_PrinterControll.csproj.GenerateResource.Cache
+E:\Phần mềm in - Foster\TPA_PrinterControll\TPA_PrinterControll\obj\Debug\TPA_PrinterControll.exe.licenses
+E:\Phần mềm in - Foster\TPA_PrinterControll\TPA_PrinterControll\obj\Debug\TPA_PrinterControll.TrustInfo.xml
+E:\Phần mềm in - Foster\TPA_PrinterControll\TPA_PrinterControll\obj\Debug\TPA_PrinterControll.exe.manifest
+E:\Phần mềm in - Foster\TPA_PrinterControll\TPA_PrinterControll\obj\Debug\TPA_PrinterControll.application
+D:\12.Phần mềm in - Foster\TPA_PrinterControll\TPA_PrinterControll\bin\Debug\TPA_PrinterControll.exe.config
+D:\12.Phần mềm in - Foster\TPA_PrinterControll\TPA_PrinterControll\obj\Debug\TPA_PrinterControll.exe
+D:\12.Phần mềm in - Foster\TPA_PrinterControll\TPA_PrinterControll\obj\Debug\TPA_PrinterControll.pdb
+D:\Phần mềm\6.Phần mềm in - Foster\TPA_PrinterControll\TPA_PrinterControll\bin\Debug\TPA_PrinterControll.exe.config
+D:\Phần mềm\6.Phần mềm in - Foster\TPA_PrinterControll\TPA_PrinterControll\obj\Debug\TPA_PrinterControll.exe
+D:\Phần mềm\6.Phần mềm in - Foster\TPA_PrinterControll\TPA_PrinterControll\obj\Debug\TPA_PrinterControll.pdb
+D:\Phần mềm\6.Phần mềm in - Foster\TPA_PrinterControll\TPA_PrinterControll\bin\Debug\TPA_PrinterControll.exe.manifest
+D:\Phần mềm\6.Phần mềm in - Foster\TPA_PrinterControll\TPA_PrinterControll\bin\Debug\TPA_PrinterControll.application
+D:\Phần mềm\6.Phần mềm in - Foster\TPA_PrinterControll\TPA_PrinterControll\bin\Debug\TPA_PrinterControll.exe
+D:\Phần mềm\6.Phần mềm in - Foster\TPA_PrinterControll\TPA_PrinterControll\bin\Debug\TPA_PrinterControll.pdb
+D:\Phần mềm\6.Phần mềm in - Foster\TPA_PrinterControll\TPA_PrinterControll\bin\Debug\Vila.Core.dll
+D:\Phần mềm\6.Phần mềm in - Foster\TPA_PrinterControll\TPA_PrinterControll\obj\Debug\TPA_PrinterControll.csprojResolveAssemblyReference.cache
+D:\Phần mềm\6.Phần mềm in - Foster\TPA_PrinterControll\TPA_PrinterControll\obj\Debug\TPA_PrinterControll.Form2.resources
+D:\Phần mềm\6.Phần mềm in - Foster\TPA_PrinterControll\TPA_PrinterControll\obj\Debug\TPA_PrinterControll.frmSetting.resources
+D:\Phần mềm\6.Phần mềm in - Foster\TPA_PrinterControll\TPA_PrinterControll\obj\Debug\TPA_PrinterControll.Properties.Resources.resources
+D:\Phần mềm\6.Phần mềm in - Foster\TPA_PrinterControll\TPA_PrinterControll\obj\Debug\TPA_PrinterControll.XtraReport1.resources
+D:\Phần mềm\6.Phần mềm in - Foster\TPA_PrinterControll\TPA_PrinterControll\obj\Debug\TPA_PrinterControll.csproj.GenerateResource.Cache
+D:\Phần mềm\6.Phần mềm in - Foster\TPA_PrinterControll\TPA_PrinterControll\obj\Debug\TPA_PrinterControll.exe.licenses
+D:\Phần mềm\6.Phần mềm in - Foster\TPA_PrinterControll\TPA_PrinterControll\obj\Debug\TPA_PrinterControll.TrustInfo.xml
+D:\Phần mềm\6.Phần mềm in - Foster\TPA_PrinterControll\TPA_PrinterControll\obj\Debug\TPA_PrinterControll.exe.manifest
+D:\Phần mềm\6.Phần mềm in - Foster\TPA_PrinterControll\TPA_PrinterControll\obj\Debug\TPA_PrinterControll.application
+D:\PROJECT\Máy in tem\TPA_PrinterControll\TPA_PrinterControll\bin\Debug\TPA_PrinterControll.exe.config
+D:\PROJECT\Máy in tem\TPA_PrinterControll\TPA_PrinterControll\obj\Debug\TPA_PrinterControll.exe
+D:\PROJECT\Máy in tem\TPA_PrinterControll\TPA_PrinterControll\obj\Debug\TPA_PrinterControll.pdb
+D:\PROJECT\Máy in tem\TPA_PrinterControll\TPA_PrinterControll\bin\Debug\TPA_PrinterControll.exe.manifest
+D:\PROJECT\Máy in tem\TPA_PrinterControll\TPA_PrinterControll\bin\Debug\TPA_PrinterControll.application
+D:\PROJECT\Máy in tem\TPA_PrinterControll\TPA_PrinterControll\bin\Debug\TPA_PrinterControll.exe
+D:\PROJECT\Máy in tem\TPA_PrinterControll\TPA_PrinterControll\bin\Debug\TPA_PrinterControll.pdb
+D:\PROJECT\Máy in tem\TPA_PrinterControll\TPA_PrinterControll\bin\Debug\Vila.Core.dll
+D:\PROJECT\Máy in tem\TPA_PrinterControll\TPA_PrinterControll\obj\Debug\TPA_PrinterControll.csprojResolveAssemblyReference.cache
+D:\PROJECT\Máy in tem\TPA_PrinterControll\TPA_PrinterControll\obj\Debug\TPA_PrinterControll.Form2.resources
+D:\PROJECT\Máy in tem\TPA_PrinterControll\TPA_PrinterControll\obj\Debug\TPA_PrinterControll.frmSetting.resources
+D:\PROJECT\Máy in tem\TPA_PrinterControll\TPA_PrinterControll\obj\Debug\TPA_PrinterControll.Properties.Resources.resources
+D:\PROJECT\Máy in tem\TPA_PrinterControll\TPA_PrinterControll\obj\Debug\TPA_PrinterControll.XtraReport1.resources
+D:\PROJECT\Máy in tem\TPA_PrinterControll\TPA_PrinterControll\obj\Debug\TPA_PrinterControll.csproj.GenerateResource.Cache
+D:\PROJECT\Máy in tem\TPA_PrinterControll\TPA_PrinterControll\obj\Debug\TPA_PrinterControll.exe.licenses
+D:\PROJECT\Máy in tem\TPA_PrinterControll\TPA_PrinterControll\obj\Debug\TPA_PrinterControll.TrustInfo.xml
+D:\PROJECT\Máy in tem\TPA_PrinterControll\TPA_PrinterControll\obj\Debug\TPA_PrinterControll.exe.manifest
+D:\PROJECT\Máy in tem\TPA_PrinterControll\TPA_PrinterControll\obj\Debug\TPA_PrinterControll.application
+D:\PROJECT\Máy in tem\TPA_PrinterControll\TPA_PrinterControll\obj\Debug\TPA_PrinterControll.frmComfirmPass.resources
+D:\PROJECT\Máy in tem\TPA_PrinterControll\TPA_PrinterControll\obj\Debug\TPA_PrinterControll.frmChangePass.resources
+D:\PROJECT\PrinterControll\TPA_PrinterControll\TPA_PrinterControll\bin\Debug\TPA_PrinterControll.exe.config
+D:\PROJECT\PrinterControll\TPA_PrinterControll\TPA_PrinterControll\obj\Debug\TPA_PrinterControll.exe
+D:\PROJECT\PrinterControll\TPA_PrinterControll\TPA_PrinterControll\obj\Debug\TPA_PrinterControll.pdb
+D:\PROJECT\PrinterControll\TPA_PrinterControll\TPA_PrinterControll\bin\Debug\TPA_PrinterControll.exe.manifest
+D:\PROJECT\PrinterControll\TPA_PrinterControll\TPA_PrinterControll\bin\Debug\TPA_PrinterControll.application
+D:\PROJECT\PrinterControll\TPA_PrinterControll\TPA_PrinterControll\bin\Debug\TPA_PrinterControll.exe
+D:\PROJECT\PrinterControll\TPA_PrinterControll\TPA_PrinterControll\bin\Debug\TPA_PrinterControll.pdb
+D:\PROJECT\PrinterControll\TPA_PrinterControll\TPA_PrinterControll\bin\Debug\Vila.Core.dll
+D:\PROJECT\PrinterControll\TPA_PrinterControll\TPA_PrinterControll\obj\Debug\TPA_PrinterControll.csprojResolveAssemblyReference.cache
+D:\PROJECT\PrinterControll\TPA_PrinterControll\TPA_PrinterControll\obj\Debug\TPA_PrinterControll.frmComfirmPass.resources
+D:\PROJECT\PrinterControll\TPA_PrinterControll\TPA_PrinterControll\obj\Debug\TPA_PrinterControll.frmChangePass.resources
+D:\PROJECT\PrinterControll\TPA_PrinterControll\TPA_PrinterControll\obj\Debug\TPA_PrinterControll.Form2.resources
+D:\PROJECT\PrinterControll\TPA_PrinterControll\TPA_PrinterControll\obj\Debug\TPA_PrinterControll.frmSetting.resources
+D:\PROJECT\PrinterControll\TPA_PrinterControll\TPA_PrinterControll\obj\Debug\TPA_PrinterControll.Properties.Resources.resources
+D:\PROJECT\PrinterControll\TPA_PrinterControll\TPA_PrinterControll\obj\Debug\TPA_PrinterControll.XtraReport1.resources
+D:\PROJECT\PrinterControll\TPA_PrinterControll\TPA_PrinterControll\obj\Debug\TPA_PrinterControll.csproj.GenerateResource.Cache
+D:\PROJECT\PrinterControll\TPA_PrinterControll\TPA_PrinterControll\obj\Debug\TPA_PrinterControll.exe.licenses
+D:\PROJECT\PrinterControll\TPA_PrinterControll\TPA_PrinterControll\obj\Debug\TPA_PrinterControll.TrustInfo.xml
+D:\PROJECT\PrinterControll\TPA_PrinterControll\TPA_PrinterControll\obj\Debug\TPA_PrinterControll.exe.manifest
+D:\PROJECT\PrinterControll\TPA_PrinterControll\TPA_PrinterControll\obj\Debug\TPA_PrinterControll.application
+D:\PROJECT\PrinterControll\Line 2\TPA_PrinterControll\TPA_PrinterControll\bin\Debug\TPA_PrinterControll.exe.config
+D:\PROJECT\PrinterControll\Line 2\TPA_PrinterControll\TPA_PrinterControll\obj\Debug\TPA_PrinterControll.exe
+D:\PROJECT\PrinterControll\Line 2\TPA_PrinterControll\TPA_PrinterControll\obj\Debug\TPA_PrinterControll.pdb
+D:\PROJECT\PrinterControll\Line 2\TPA_PrinterControll\TPA_PrinterControll\obj\Debug\TPA_PrinterControll.csprojResolveAssemblyReference.cache
+D:\PROJECT\PrinterControll\Line 2\TPA_PrinterControll\TPA_PrinterControll\obj\Debug\TPA_PrinterControll.frmComfirmPass.resources
+D:\PROJECT\PrinterControll\Line 2\TPA_PrinterControll\TPA_PrinterControll\obj\Debug\TPA_PrinterControll.frmChangePass.resources
+D:\PROJECT\PrinterControll\Line 2\TPA_PrinterControll\TPA_PrinterControll\obj\Debug\TPA_PrinterControll.Form2.resources
+D:\PROJECT\PrinterControll\Line 2\TPA_PrinterControll\TPA_PrinterControll\obj\Debug\TPA_PrinterControll.frmSetting.resources
+D:\PROJECT\PrinterControll\Line 2\TPA_PrinterControll\TPA_PrinterControll\obj\Debug\TPA_PrinterControll.Properties.Resources.resources
+D:\PROJECT\PrinterControll\Line 2\TPA_PrinterControll\TPA_PrinterControll\obj\Debug\TPA_PrinterControll.XtraReport1.resources
+D:\PROJECT\PrinterControll\Line 2\TPA_PrinterControll\TPA_PrinterControll\obj\Debug\TPA_PrinterControll.csproj.GenerateResource.Cache
+D:\PROJECT\PrinterControll\Line 2\TPA_PrinterControll\TPA_PrinterControll\obj\Debug\TPA_PrinterControll.exe.licenses
+D:\PROJECT\PrinterControll\Line 2\TPA_PrinterControll\TPA_PrinterControll\bin\Debug\TPA_PrinterControll.exe.manifest
+D:\PROJECT\PrinterControll\Line 2\TPA_PrinterControll\TPA_PrinterControll\bin\Debug\TPA_PrinterControll.application
+D:\PROJECT\PrinterControll\Line 2\TPA_PrinterControll\TPA_PrinterControll\bin\Debug\TPA_PrinterControll.exe
+D:\PROJECT\PrinterControll\Line 2\TPA_PrinterControll\TPA_PrinterControll\bin\Debug\TPA_PrinterControll.pdb
+D:\PROJECT\PrinterControll\Line 2\TPA_PrinterControll\TPA_PrinterControll\bin\Debug\Vila.Core.dll
+D:\PROJECT\PrinterControll\Line 2\TPA_PrinterControll\TPA_PrinterControll\obj\Debug\TPA_PrinterControll.TrustInfo.xml
+D:\PROJECT\PrinterControll\Line 2\TPA_PrinterControll\TPA_PrinterControll\obj\Debug\TPA_PrinterControll.exe.manifest
+D:\PROJECT\PrinterControll\Line 2\TPA_PrinterControll\TPA_PrinterControll\obj\Debug\TPA_PrinterControll.application
+D:\PROJECT\PrinterControll\Line 2\TPA_PrinterControll\TPA_PrinterControll\obj\Debug\TPA_PrinterControll.frmPrintMatrix.resources
+D:\PROJECT\PrinterControll\Line 2\TPA_PrinterControll\TPA_PrinterControll\obj\Debug\TPA_PrinterControll.XtraReport2.resources
+D:\PROJECT\PrinterControll\Line 2\TPA_PrinterControll\TPA_PrinterControll\obj\Debug\TPA_PrinterControll.frmTest.resources
+D:\PROJECT\PrinterControll\Line T 3\TPA_PrinterControll\TPA_PrinterControll\bin\Debug\TPA_PrinterControll.exe.config
+D:\PROJECT\PrinterControll\Line T 3\TPA_PrinterControll\TPA_PrinterControll\obj\Debug\TPA_PrinterControll.exe
+D:\PROJECT\PrinterControll\Line T 3\TPA_PrinterControll\TPA_PrinterControll\obj\Debug\TPA_PrinterControll.pdb
+D:\PROJECT\PrinterControll\Line T 3\TPA_PrinterControll\TPA_PrinterControll\bin\Debug\TPA_PrinterControll.exe.manifest
+D:\PROJECT\PrinterControll\Line T 3\TPA_PrinterControll\TPA_PrinterControll\bin\Debug\TPA_PrinterControll.application
+D:\PROJECT\PrinterControll\Line T 3\TPA_PrinterControll\TPA_PrinterControll\bin\Debug\TPA_PrinterControll.exe
+D:\PROJECT\PrinterControll\Line T 3\TPA_PrinterControll\TPA_PrinterControll\bin\Debug\TPA_PrinterControll.pdb
+D:\PROJECT\PrinterControll\Line T 3\TPA_PrinterControll\TPA_PrinterControll\bin\Debug\Vila.Core.dll
+D:\PROJECT\PrinterControll\Line T 3\TPA_PrinterControll\TPA_PrinterControll\obj\Debug\TPA_PrinterControll.csprojResolveAssemblyReference.cache
+D:\PROJECT\PrinterControll\Line T 3\TPA_PrinterControll\TPA_PrinterControll\obj\Debug\TPA_PrinterControll.frmComfirmPass.resources
+D:\PROJECT\PrinterControll\Line T 3\TPA_PrinterControll\TPA_PrinterControll\obj\Debug\TPA_PrinterControll.frmTest.resources
+D:\PROJECT\PrinterControll\Line T 3\TPA_PrinterControll\TPA_PrinterControll\obj\Debug\TPA_PrinterControll.frmPrintMatrix.resources
+D:\PROJECT\PrinterControll\Line T 3\TPA_PrinterControll\TPA_PrinterControll\obj\Debug\TPA_PrinterControll.frmChangePass.resources
+D:\PROJECT\PrinterControll\Line T 3\TPA_PrinterControll\TPA_PrinterControll\obj\Debug\TPA_PrinterControll.Form2.resources
+D:\PROJECT\PrinterControll\Line T 3\TPA_PrinterControll\TPA_PrinterControll\obj\Debug\TPA_PrinterControll.frmSetting.resources
+D:\PROJECT\PrinterControll\Line T 3\TPA_PrinterControll\TPA_PrinterControll\obj\Debug\TPA_PrinterControll.Properties.Resources.resources
+D:\PROJECT\PrinterControll\Line T 3\TPA_PrinterControll\TPA_PrinterControll\obj\Debug\TPA_PrinterControll.XtraReport2.resources
+D:\PROJECT\PrinterControll\Line T 3\TPA_PrinterControll\TPA_PrinterControll\obj\Debug\TPA_PrinterControll.XtraReport1.resources
+D:\PROJECT\PrinterControll\Line T 3\TPA_PrinterControll\TPA_PrinterControll\obj\Debug\TPA_PrinterControll.csproj.GenerateResource.Cache
+D:\PROJECT\PrinterControll\Line T 3\TPA_PrinterControll\TPA_PrinterControll\obj\Debug\TPA_PrinterControll.exe.licenses
+D:\PROJECT\PrinterControll\Line T 3\TPA_PrinterControll\TPA_PrinterControll\obj\Debug\TPA_PrinterControll.TrustInfo.xml
+D:\PROJECT\PrinterControll\Line T 3\TPA_PrinterControll\TPA_PrinterControll\obj\Debug\TPA_PrinterControll.exe.manifest
+D:\PROJECT\PrinterControll\Line T 3\TPA_PrinterControll\TPA_PrinterControll\obj\Debug\TPA_PrinterControll.application
+D:\PROJECT\PrinterControll\New line T3\TPA_PrinterControll\TPA_PrinterControll\bin\Debug\TPA_PrinterControll.exe.config
+D:\PROJECT\PrinterControll\New line T3\TPA_PrinterControll\TPA_PrinterControll\obj\Debug\TPA_PrinterControll.exe
+D:\PROJECT\PrinterControll\New line T3\TPA_PrinterControll\TPA_PrinterControll\obj\Debug\TPA_PrinterControll.pdb
+D:\PROJECT\PrinterControll\New line T3\TPA_PrinterControll\TPA_PrinterControll\obj\Debug\TPA_PrinterControll.csprojResolveAssemblyReference.cache
+D:\PROJECT\PrinterControll\New line T3\TPA_PrinterControll\TPA_PrinterControll\obj\Debug\TPA_PrinterControll.frmComfirmPass.resources
+D:\PROJECT\PrinterControll\New line T3\TPA_PrinterControll\TPA_PrinterControll\obj\Debug\TPA_PrinterControll.frmTest.resources
+D:\PROJECT\PrinterControll\New line T3\TPA_PrinterControll\TPA_PrinterControll\obj\Debug\TPA_PrinterControll.frmChangePass.resources
+D:\PROJECT\PrinterControll\New line T3\TPA_PrinterControll\TPA_PrinterControll\obj\Debug\TPA_PrinterControll.Form2.resources
+D:\PROJECT\PrinterControll\New line T3\TPA_PrinterControll\TPA_PrinterControll\obj\Debug\TPA_PrinterControll.frmSetting.resources
+D:\PROJECT\PrinterControll\New line T3\TPA_PrinterControll\TPA_PrinterControll\obj\Debug\TPA_PrinterControll.Properties.Resources.resources
+D:\PROJECT\PrinterControll\New line T3\TPA_PrinterControll\TPA_PrinterControll\obj\Debug\TPA_PrinterControll.XtraReport2.resources
+D:\PROJECT\PrinterControll\New line T3\TPA_PrinterControll\TPA_PrinterControll\obj\Debug\TPA_PrinterControll.XtraReport1.resources
+D:\PROJECT\PrinterControll\New line T3\TPA_PrinterControll\TPA_PrinterControll\obj\Debug\TPA_PrinterControll.csproj.GenerateResource.Cache
+D:\PROJECT\PrinterControll\New line T3\TPA_PrinterControll\TPA_PrinterControll\obj\Debug\TPA_PrinterControll.exe.licenses
+D:\PROJECT\PrinterControll\New line T3\TPA_PrinterControll\TPA_PrinterControll\bin\Debug\TPA_PrinterControll.exe.manifest
+D:\PROJECT\PrinterControll\New line T3\TPA_PrinterControll\TPA_PrinterControll\bin\Debug\TPA_PrinterControll.application
+D:\PROJECT\PrinterControll\New line T3\TPA_PrinterControll\TPA_PrinterControll\bin\Debug\TPA_PrinterControll.exe
+D:\PROJECT\PrinterControll\New line T3\TPA_PrinterControll\TPA_PrinterControll\bin\Debug\TPA_PrinterControll.pdb
+D:\PROJECT\PrinterControll\New line T3\TPA_PrinterControll\TPA_PrinterControll\bin\Debug\Dapper.dll
+D:\PROJECT\PrinterControll\New line T3\TPA_PrinterControll\TPA_PrinterControll\bin\Debug\Vila.Core.dll
+D:\PROJECT\PrinterControll\New line T3\TPA_PrinterControll\TPA_PrinterControll\bin\Debug\Dapper.pdb
+D:\PROJECT\PrinterControll\New line T3\TPA_PrinterControll\TPA_PrinterControll\bin\Debug\Dapper.xml
+D:\PROJECT\PrinterControll\New line T3\TPA_PrinterControll\TPA_PrinterControll\obj\Debug\TPA_PrinterControll.TrustInfo.xml
+D:\PROJECT\PrinterControll\New line T3\TPA_PrinterControll\TPA_PrinterControll\obj\Debug\TPA_PrinterControll.exe.manifest
+D:\PROJECT\PrinterControll\New line T3\TPA_PrinterControll\TPA_PrinterControll\obj\Debug\TPA_PrinterControll.application
+D:\PROJECT\PrinterControll\New line T3\TPA_PrinterControll\TPA_PrinterControll\bin\Debug\System.Net.Http.dll
+D:\PROJECT\PrinterControll\New line T3\TPA_PrinterControll\TPA_PrinterControll\bin\Debug\System.Net.Http.xml
+D:\PROJECT\PrinterControll\New line T3\TPA_PrinterControll\TPA_PrinterControll\obj\Debug\TPA_PrinterControll.frmPrintMatrixNew.resources
+D:\PROJECT\PrinterControll\New line T2\TPA_PrinterControll\TPA_PrinterControll\bin\Debug\TPA_PrinterControll.exe.config
+D:\PROJECT\PrinterControll\New line T2\TPA_PrinterControll\TPA_PrinterControll\obj\Debug\TPA_PrinterControll.exe
+D:\PROJECT\PrinterControll\New line T2\TPA_PrinterControll\TPA_PrinterControll\obj\Debug\TPA_PrinterControll.pdb
+D:\PROJECT\PrinterControll\New line T2\TPA_PrinterControll\TPA_PrinterControll\obj\Debug\TPA_PrinterControll.csprojResolveAssemblyReference.cache
+D:\PROJECT\PrinterControll\New line T2\TPA_PrinterControll\TPA_PrinterControll\obj\Debug\TPA_PrinterControll.frmComfirmPass.resources
+D:\PROJECT\PrinterControll\New line T2\TPA_PrinterControll\TPA_PrinterControll\obj\Debug\TPA_PrinterControll.frmPrintMatrixNew.resources
+D:\PROJECT\PrinterControll\New line T2\TPA_PrinterControll\TPA_PrinterControll\obj\Debug\TPA_PrinterControll.frmChangePass.resources
+D:\PROJECT\PrinterControll\New line T2\TPA_PrinterControll\TPA_PrinterControll\obj\Debug\TPA_PrinterControll.frmSetting.resources
+D:\PROJECT\PrinterControll\New line T2\TPA_PrinterControll\TPA_PrinterControll\obj\Debug\TPA_PrinterControll.Properties.Resources.resources
+D:\PROJECT\PrinterControll\New line T2\TPA_PrinterControll\TPA_PrinterControll\obj\Debug\TPA_PrinterControll.XtraReport1.resources
+D:\PROJECT\PrinterControll\New line T2\TPA_PrinterControll\TPA_PrinterControll\obj\Debug\TPA_PrinterControll.XtraReport2.resources
+D:\PROJECT\PrinterControll\New line T2\TPA_PrinterControll\TPA_PrinterControll\obj\Debug\TPA_PrinterControll.csproj.GenerateResource.Cache
+D:\PROJECT\PrinterControll\New line T2\TPA_PrinterControll\TPA_PrinterControll\obj\Debug\TPA_PrinterControll.exe.licenses
+D:\PROJECT\PrinterControll\New line T2\TPA_PrinterControll\TPA_PrinterControll\bin\Debug\TPA_PrinterControll.exe.manifest
+D:\PROJECT\PrinterControll\New line T2\TPA_PrinterControll\TPA_PrinterControll\bin\Debug\TPA_PrinterControll.application
+D:\PROJECT\PrinterControll\New line T2\TPA_PrinterControll\TPA_PrinterControll\bin\Debug\TPA_PrinterControll.exe
+D:\PROJECT\PrinterControll\New line T2\TPA_PrinterControll\TPA_PrinterControll\bin\Debug\TPA_PrinterControll.pdb
+D:\PROJECT\PrinterControll\New line T2\TPA_PrinterControll\TPA_PrinterControll\bin\Debug\Dapper.dll
+D:\PROJECT\PrinterControll\New line T2\TPA_PrinterControll\TPA_PrinterControll\bin\Debug\System.Net.Http.dll
+D:\PROJECT\PrinterControll\New line T2\TPA_PrinterControll\TPA_PrinterControll\bin\Debug\Vila.Core.dll
+D:\PROJECT\PrinterControll\New line T2\TPA_PrinterControll\TPA_PrinterControll\bin\Debug\Dapper.pdb
+D:\PROJECT\PrinterControll\New line T2\TPA_PrinterControll\TPA_PrinterControll\bin\Debug\Dapper.xml
+D:\PROJECT\PrinterControll\New line T2\TPA_PrinterControll\TPA_PrinterControll\bin\Debug\System.Net.Http.xml
+D:\PROJECT\PrinterControll\New line T2\TPA_PrinterControll\TPA_PrinterControll\obj\Debug\TPA_PrinterControll.TrustInfo.xml
+D:\PROJECT\PrinterControll\New line T2\TPA_PrinterControll\TPA_PrinterControll\obj\Debug\TPA_PrinterControll.exe.manifest
+D:\PROJECT\PrinterControll\New line T2\TPA_PrinterControll\TPA_PrinterControll\obj\Debug\TPA_PrinterControll.application
+D:\PROJECT\PrinterControll\New line T2\TPA_PrinterControll\TPA_PrinterControll\bin\Debug\DevExpress.Charts.v13.2.Core.dll
+D:\PROJECT\PrinterControll\New line T2\TPA_PrinterControll\TPA_PrinterControll\bin\Debug\DevExpress.Data.v13.2.dll
+D:\PROJECT\PrinterControll\New line T2\TPA_PrinterControll\TPA_PrinterControll\bin\Debug\DevExpress.Office.v13.2.Core.dll
+D:\PROJECT\PrinterControll\New line T2\TPA_PrinterControll\TPA_PrinterControll\bin\Debug\DevExpress.PivotGrid.v13.2.Core.dll
+D:\PROJECT\PrinterControll\New line T2\TPA_PrinterControll\TPA_PrinterControll\bin\Debug\DevExpress.Printing.v13.2.Core.dll
+D:\PROJECT\PrinterControll\New line T2\TPA_PrinterControll\TPA_PrinterControll\bin\Debug\DevExpress.RichEdit.v13.2.Core.dll
+D:\PROJECT\PrinterControll\New line T2\TPA_PrinterControll\TPA_PrinterControll\bin\Debug\DevExpress.Sparkline.v13.2.Core.dll
+D:\PROJECT\PrinterControll\New line T2\TPA_PrinterControll\TPA_PrinterControll\bin\Debug\DevExpress.Utils.v13.2.dll
+D:\PROJECT\PrinterControll\New line T2\TPA_PrinterControll\TPA_PrinterControll\bin\Debug\DevExpress.Utils.v13.2.UI.dll
+D:\PROJECT\PrinterControll\New line T2\TPA_PrinterControll\TPA_PrinterControll\bin\Debug\DevExpress.XtraBars.v13.2.dll
+D:\PROJECT\PrinterControll\New line T2\TPA_PrinterControll\TPA_PrinterControll\bin\Debug\DevExpress.XtraCharts.v13.2.dll
+D:\PROJECT\PrinterControll\New line T2\TPA_PrinterControll\TPA_PrinterControll\bin\Debug\DevExpress.XtraEditors.v13.2.dll
+D:\PROJECT\PrinterControll\New line T2\TPA_PrinterControll\TPA_PrinterControll\bin\Debug\DevExpress.XtraGrid.v13.2.dll
+D:\PROJECT\PrinterControll\New line T2\TPA_PrinterControll\TPA_PrinterControll\bin\Debug\DevExpress.XtraLayout.v13.2.dll
+D:\PROJECT\PrinterControll\New line T2\TPA_PrinterControll\TPA_PrinterControll\bin\Debug\DevExpress.XtraPrinting.v13.2.dll
+D:\PROJECT\PrinterControll\New line T2\TPA_PrinterControll\TPA_PrinterControll\bin\Debug\DevExpress.XtraReports.v13.2.dll
+D:\PROJECT\PrinterControll\New line T2\TPA_PrinterControll\TPA_PrinterControll\bin\Debug\DevExpress.XtraReports.v13.2.Extensions.dll
+D:\PROJECT\PrinterControll\New line T2\TPA_PrinterControll\TPA_PrinterControll\bin\Debug\DevExpress.Data.v13.2.xml
+D:\PROJECT\PrinterControll\New line T2\TPA_PrinterControll\TPA_PrinterControll\bin\Debug\DevExpress.Office.v13.2.Core.xml
+D:\PROJECT\PrinterControll\New line T2\TPA_PrinterControll\TPA_PrinterControll\bin\Debug\DevExpress.PivotGrid.v13.2.Core.xml
+D:\PROJECT\PrinterControll\New line T2\TPA_PrinterControll\TPA_PrinterControll\bin\Debug\DevExpress.Printing.v13.2.Core.xml
+D:\PROJECT\PrinterControll\New line T2\TPA_PrinterControll\TPA_PrinterControll\bin\Debug\DevExpress.RichEdit.v13.2.Core.xml
+D:\PROJECT\PrinterControll\New line T2\TPA_PrinterControll\TPA_PrinterControll\bin\Debug\DevExpress.Sparkline.v13.2.Core.xml
+D:\PROJECT\PrinterControll\New line T2\TPA_PrinterControll\TPA_PrinterControll\bin\Debug\DevExpress.Utils.v13.2.xml
+D:\PROJECT\PrinterControll\New line T2\TPA_PrinterControll\TPA_PrinterControll\bin\Debug\DevExpress.Utils.v13.2.UI.xml
+D:\PROJECT\PrinterControll\New line T2\TPA_PrinterControll\TPA_PrinterControll\bin\Debug\DevExpress.XtraBars.v13.2.xml
+D:\PROJECT\PrinterControll\New line T2\TPA_PrinterControll\TPA_PrinterControll\bin\Debug\DevExpress.XtraCharts.v13.2.xml
+D:\PROJECT\PrinterControll\New line T2\TPA_PrinterControll\TPA_PrinterControll\bin\Debug\DevExpress.XtraEditors.v13.2.xml
+D:\PROJECT\PrinterControll\New line T2\TPA_PrinterControll\TPA_PrinterControll\bin\Debug\DevExpress.XtraGrid.v13.2.xml
+D:\PROJECT\PrinterControll\New line T2\TPA_PrinterControll\TPA_PrinterControll\bin\Debug\DevExpress.XtraLayout.v13.2.xml
+D:\PROJECT\PrinterControll\New line T2\TPA_PrinterControll\TPA_PrinterControll\bin\Debug\DevExpress.XtraPrinting.v13.2.xml
+D:\PROJECT\PrinterControll\New line T2\TPA_PrinterControll\TPA_PrinterControll\bin\Debug\DevExpress.XtraReports.v13.2.xml
+D:\PROJECT\PrinterControll\New line T2\TPA_PrinterControll\TPA_PrinterControll\bin\Debug\DevExpress.XtraReports.v13.2.Extensions.xml
+D:\PROJECT\PrinterControll\New line T2\TPA_PrinterControll\TPA_PrinterControll\bin\Debug\de\DevExpress.Data.v13.2.resources.dll
+D:\PROJECT\PrinterControll\New line T2\TPA_PrinterControll\TPA_PrinterControll\bin\Debug\es\DevExpress.Data.v13.2.resources.dll
+D:\PROJECT\PrinterControll\New line T2\TPA_PrinterControll\TPA_PrinterControll\bin\Debug\ja\DevExpress.Data.v13.2.resources.dll
+D:\PROJECT\PrinterControll\New line T2\TPA_PrinterControll\TPA_PrinterControll\bin\Debug\ru\DevExpress.Data.v13.2.resources.dll
+D:\PROJECT\PrinterControll\New line T2\TPA_PrinterControll\TPA_PrinterControll\bin\Debug\de\DevExpress.Office.v13.2.Core.resources.dll
+D:\PROJECT\PrinterControll\New line T2\TPA_PrinterControll\TPA_PrinterControll\bin\Debug\es\DevExpress.Office.v13.2.Core.resources.dll
+D:\PROJECT\PrinterControll\New line T2\TPA_PrinterControll\TPA_PrinterControll\bin\Debug\ja\DevExpress.Office.v13.2.Core.resources.dll
+D:\PROJECT\PrinterControll\New line T2\TPA_PrinterControll\TPA_PrinterControll\bin\Debug\ru\DevExpress.Office.v13.2.Core.resources.dll
+D:\PROJECT\PrinterControll\New line T2\TPA_PrinterControll\TPA_PrinterControll\bin\Debug\de\DevExpress.PivotGrid.v13.2.Core.resources.dll
+D:\PROJECT\PrinterControll\New line T2\TPA_PrinterControll\TPA_PrinterControll\bin\Debug\es\DevExpress.PivotGrid.v13.2.Core.resources.dll
+D:\PROJECT\PrinterControll\New line T2\TPA_PrinterControll\TPA_PrinterControll\bin\Debug\ja\DevExpress.PivotGrid.v13.2.Core.resources.dll
+D:\PROJECT\PrinterControll\New line T2\TPA_PrinterControll\TPA_PrinterControll\bin\Debug\ru\DevExpress.PivotGrid.v13.2.Core.resources.dll
+D:\PROJECT\PrinterControll\New line T2\TPA_PrinterControll\TPA_PrinterControll\bin\Debug\de\DevExpress.Printing.v13.2.Core.resources.dll
+D:\PROJECT\PrinterControll\New line T2\TPA_PrinterControll\TPA_PrinterControll\bin\Debug\es\DevExpress.Printing.v13.2.Core.resources.dll
+D:\PROJECT\PrinterControll\New line T2\TPA_PrinterControll\TPA_PrinterControll\bin\Debug\ja\DevExpress.Printing.v13.2.Core.resources.dll
+D:\PROJECT\PrinterControll\New line T2\TPA_PrinterControll\TPA_PrinterControll\bin\Debug\ru\DevExpress.Printing.v13.2.Core.resources.dll
+D:\PROJECT\PrinterControll\New line T2\TPA_PrinterControll\TPA_PrinterControll\bin\Debug\de\DevExpress.RichEdit.v13.2.Core.resources.dll
+D:\PROJECT\PrinterControll\New line T2\TPA_PrinterControll\TPA_PrinterControll\bin\Debug\es\DevExpress.RichEdit.v13.2.Core.resources.dll
+D:\PROJECT\PrinterControll\New line T2\TPA_PrinterControll\TPA_PrinterControll\bin\Debug\ja\DevExpress.RichEdit.v13.2.Core.resources.dll
+D:\PROJECT\PrinterControll\New line T2\TPA_PrinterControll\TPA_PrinterControll\bin\Debug\ru\DevExpress.RichEdit.v13.2.Core.resources.dll
+D:\PROJECT\PrinterControll\New line T2\TPA_PrinterControll\TPA_PrinterControll\bin\Debug\ru\DevExpress.Sparkline.v13.2.Core.resources.dll
+D:\PROJECT\PrinterControll\New line T2\TPA_PrinterControll\TPA_PrinterControll\bin\Debug\de\DevExpress.Utils.v13.2.resources.dll
+D:\PROJECT\PrinterControll\New line T2\TPA_PrinterControll\TPA_PrinterControll\bin\Debug\es\DevExpress.Utils.v13.2.resources.dll
+D:\PROJECT\PrinterControll\New line T2\TPA_PrinterControll\TPA_PrinterControll\bin\Debug\ja\DevExpress.Utils.v13.2.resources.dll
+D:\PROJECT\PrinterControll\New line T2\TPA_PrinterControll\TPA_PrinterControll\bin\Debug\ru\DevExpress.Utils.v13.2.resources.dll
+D:\PROJECT\PrinterControll\New line T2\TPA_PrinterControll\TPA_PrinterControll\bin\Debug\de\DevExpress.Utils.v13.2.UI.resources.dll
+D:\PROJECT\PrinterControll\New line T2\TPA_PrinterControll\TPA_PrinterControll\bin\Debug\es\DevExpress.Utils.v13.2.UI.resources.dll
+D:\PROJECT\PrinterControll\New line T2\TPA_PrinterControll\TPA_PrinterControll\bin\Debug\ja\DevExpress.Utils.v13.2.UI.resources.dll
+D:\PROJECT\PrinterControll\New line T2\TPA_PrinterControll\TPA_PrinterControll\bin\Debug\ru\DevExpress.Utils.v13.2.UI.resources.dll
+D:\PROJECT\PrinterControll\New line T2\TPA_PrinterControll\TPA_PrinterControll\bin\Debug\de\DevExpress.XtraBars.v13.2.resources.dll
+D:\PROJECT\PrinterControll\New line T2\TPA_PrinterControll\TPA_PrinterControll\bin\Debug\es\DevExpress.XtraBars.v13.2.resources.dll
+D:\PROJECT\PrinterControll\New line T2\TPA_PrinterControll\TPA_PrinterControll\bin\Debug\ja\DevExpress.XtraBars.v13.2.resources.dll
+D:\PROJECT\PrinterControll\New line T2\TPA_PrinterControll\TPA_PrinterControll\bin\Debug\ru\DevExpress.XtraBars.v13.2.resources.dll
+D:\PROJECT\PrinterControll\New line T2\TPA_PrinterControll\TPA_PrinterControll\bin\Debug\de\DevExpress.XtraCharts.v13.2.resources.dll
+D:\PROJECT\PrinterControll\New line T2\TPA_PrinterControll\TPA_PrinterControll\bin\Debug\es\DevExpress.XtraCharts.v13.2.resources.dll
+D:\PROJECT\PrinterControll\New line T2\TPA_PrinterControll\TPA_PrinterControll\bin\Debug\ja\DevExpress.XtraCharts.v13.2.resources.dll
+D:\PROJECT\PrinterControll\New line T2\TPA_PrinterControll\TPA_PrinterControll\bin\Debug\ru\DevExpress.XtraCharts.v13.2.resources.dll
+D:\PROJECT\PrinterControll\New line T2\TPA_PrinterControll\TPA_PrinterControll\bin\Debug\de\DevExpress.XtraEditors.v13.2.resources.dll
+D:\PROJECT\PrinterControll\New line T2\TPA_PrinterControll\TPA_PrinterControll\bin\Debug\es\DevExpress.XtraEditors.v13.2.resources.dll
+D:\PROJECT\PrinterControll\New line T2\TPA_PrinterControll\TPA_PrinterControll\bin\Debug\ja\DevExpress.XtraEditors.v13.2.resources.dll
+D:\PROJECT\PrinterControll\New line T2\TPA_PrinterControll\TPA_PrinterControll\bin\Debug\ru\DevExpress.XtraEditors.v13.2.resources.dll
+D:\PROJECT\PrinterControll\New line T2\TPA_PrinterControll\TPA_PrinterControll\bin\Debug\de\DevExpress.XtraGrid.v13.2.resources.dll
+D:\PROJECT\PrinterControll\New line T2\TPA_PrinterControll\TPA_PrinterControll\bin\Debug\es\DevExpress.XtraGrid.v13.2.resources.dll
+D:\PROJECT\PrinterControll\New line T2\TPA_PrinterControll\TPA_PrinterControll\bin\Debug\ja\DevExpress.XtraGrid.v13.2.resources.dll
+D:\PROJECT\PrinterControll\New line T2\TPA_PrinterControll\TPA_PrinterControll\bin\Debug\ru\DevExpress.XtraGrid.v13.2.resources.dll
+D:\PROJECT\PrinterControll\New line T2\TPA_PrinterControll\TPA_PrinterControll\bin\Debug\de\DevExpress.XtraLayout.v13.2.resources.dll
+D:\PROJECT\PrinterControll\New line T2\TPA_PrinterControll\TPA_PrinterControll\bin\Debug\es\DevExpress.XtraLayout.v13.2.resources.dll
+D:\PROJECT\PrinterControll\New line T2\TPA_PrinterControll\TPA_PrinterControll\bin\Debug\ja\DevExpress.XtraLayout.v13.2.resources.dll
+D:\PROJECT\PrinterControll\New line T2\TPA_PrinterControll\TPA_PrinterControll\bin\Debug\ru\DevExpress.XtraLayout.v13.2.resources.dll
+D:\PROJECT\PrinterControll\New line T2\TPA_PrinterControll\TPA_PrinterControll\bin\Debug\de\DevExpress.XtraPrinting.v13.2.resources.dll
+D:\PROJECT\PrinterControll\New line T2\TPA_PrinterControll\TPA_PrinterControll\bin\Debug\es\DevExpress.XtraPrinting.v13.2.resources.dll
+D:\PROJECT\PrinterControll\New line T2\TPA_PrinterControll\TPA_PrinterControll\bin\Debug\ja\DevExpress.XtraPrinting.v13.2.resources.dll
+D:\PROJECT\PrinterControll\New line T2\TPA_PrinterControll\TPA_PrinterControll\bin\Debug\ru\DevExpress.XtraPrinting.v13.2.resources.dll
+D:\PROJECT\PrinterControll\New line T2\TPA_PrinterControll\TPA_PrinterControll\bin\Debug\de\DevExpress.XtraReports.v13.2.resources.dll
+D:\PROJECT\PrinterControll\New line T2\TPA_PrinterControll\TPA_PrinterControll\bin\Debug\es\DevExpress.XtraReports.v13.2.resources.dll
+D:\PROJECT\PrinterControll\New line T2\TPA_PrinterControll\TPA_PrinterControll\bin\Debug\ja\DevExpress.XtraReports.v13.2.resources.dll
+D:\PROJECT\PrinterControll\New line T2\TPA_PrinterControll\TPA_PrinterControll\bin\Debug\ru\DevExpress.XtraReports.v13.2.resources.dll
+D:\PROJECT\PrinterControll\New line T2\TPA_PrinterControll\TPA_PrinterControll\bin\Debug\de\DevExpress.XtraReports.v13.2.Extensions.resources.dll
+D:\PROJECT\PrinterControll\New line T2\TPA_PrinterControll\TPA_PrinterControll\bin\Debug\es\DevExpress.XtraReports.v13.2.Extensions.resources.dll
+D:\PROJECT\PrinterControll\New line T2\TPA_PrinterControll\TPA_PrinterControll\bin\Debug\ja\DevExpress.XtraReports.v13.2.Extensions.resources.dll
+D:\PROJECT\PrinterControll\New line T2\TPA_PrinterControll\TPA_PrinterControll\bin\Debug\ru\DevExpress.XtraReports.v13.2.Extensions.resources.dll
